@@ -7,7 +7,7 @@ Using language models to generate, execute and improve code in an iterative evol
 
 So, I'm not building that. I did however want to explore what I could achieve by hooking up current language models to a system that can generate, execute, evaluate and improve code in an iterative loop, given some goal. 
 
-There are many key functionalities required for this. Some of them I have an idea how they could work. Others will require some experimentation. My initial attept will be to create a system that requires only a broad goal as input, with the rest filled in by AI, including things such as:
+There are many key functionalities required for this. Some of them I have an idea how they could work. Others will require some experimentation. My initial attempt will be to create a system that requires only a broad goal as input, with the rest filled in by AI, including things such as:
 
 - Specific goal driven outputs
 - Testing and evaluation criteria
