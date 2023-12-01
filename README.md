@@ -1,6 +1,8 @@
 # seed_ai
 Using language models to generate, execute and improve code in an iterative evolutionary loop
 
+## Idea
+
 "Seed AI" as a concept is a hypothetical form of artificial intelligence capable of recursive self-improvement. Starting from a relatively simple level, it redesigns itself to become more intelligent, with the process continuing exponentially.
 
 So, I'm not building that. I did however want to explore what I could achieve by hooking up current language models to a system that can generate, execute, evaluate and improve code in an iterative loop, given some goal. 
